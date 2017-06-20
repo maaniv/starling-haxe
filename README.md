@@ -9,14 +9,9 @@ Clone the Starling repository:
     git clone https://github.com/maaniv/starling-haxe.git
 
 
-Tell haxelib where your development copy of Starling is installed:
+Tell haxelib where your development copy is installed:
 
     haxelib dev starling-haxe starling-haxe
-
-
-To return to release builds:
-
-    haxelib dev starling-haxe
 
 To add it to an OpenFL project, add this to your project file:
 
