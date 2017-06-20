@@ -1,10 +1,10 @@
 {
 	"name": "starling-haxe",
-	"url": "",
+	"url": "https://github.com/maaniv/starling-haxe",
 	"license": "BSD",
 	"tags": ["starling", "2d", "gpu", "openfl", "flash", "air", "js", "web", "cpp" ],
 	"description": "The Cross-Platform Game Engine",
-	"version": "2.1.0",
+	"version": "2.1.0-1",
 	"releasenote": "",
 	"contributors": [],
 	"dependencies": {
