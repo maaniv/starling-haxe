@@ -21,4 +21,4 @@ To add it to an OpenFL project, add this to your project file:
 
 To create starling demo project type:
 
-openfl create starling-haxe demo starling-demo
+    openfl create starling-haxe demo starling-demo
