@@ -6,7 +6,7 @@ Installation
 
 Clone the Starling repository:
 
-    git clone https://github.com/openfl/starling
+    git clone https://github.com/maaniv/starling-haxe.git
 
 
 Tell haxelib where your development copy of Starling is installed:
