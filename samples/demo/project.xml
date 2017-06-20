@@ -5,41 +5,16 @@
 
 	<window width="320" height="480" orientation="portrait" background="0xffffff"/>
 	<window resizable="false" unless="mobile"/>
-	<window fps="30" unless="html5"/>
-	<!--window fps="30" if="android"/-->
-	<!--window stencil-buffer="false" if="android"/-->
+	<window fps="60" unless="html5"/>
 
 	<source path="src"/>
 
-	<!--haxelib name="format"/-->
-	<!--haxelib name="starling"/-->
-	<!--haxelib name="dragonbones"/-->
 	<haxelib name="openfl"/>
+	<haxelib name="starling-haxe"/>
 
-	<haxelib name="hxcpp-debugger" if="debug,cpp"/>
-	<haxedef name="HXCPP_DEBUGGER" if="debug,cpp"/>
-
-	<!--<assets path="assets/knights" type="binary"/>-->
-	<!--<assets path="assets/knight"/>-->
 	<assets path="assets/audio/wing_flap.mp3" if="web" />
 	<assets path="assets/audio/wing_flap.ogg" unless="flash" />
 	<assets path="assets/textures/1x" />
 	<assets path="assets/fonts/1x" />
-	<!--<assets path="assets/fonts/DejaVuSans.ttf" />-->
 	<assets path="assets/fonts/Ubuntu-R.ttf" />
-	<!--assets path="assets/audio/wing_flap.mp3" if="web" />
-	<assets path="assets/audio/wing_flap.ogg" unless="flash" />
-	<assets path="assets/textures/1x" />
-	<assets path="assets/fonts/1x" />
-	<assets path="assets/fonts/DejaVuSans.ttf" />
-	<assets path="assets/fonts/Ubuntu-R.ttf" /-->
-  <!--<haxedef name="FLOAT_BYTE_ARRAY" />-->
-
-	<!--section if="demo-video">
-
-		<app swf-version="18" />
-		<assets path="assets/videos" rename="videos" embed="false" />
-
-	</section-->
-
 </project>

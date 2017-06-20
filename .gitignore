@@ -1,4 +1,4 @@
-#/samples/*/bin
+/samples/*/bin
 #/samples/*/Export
 #/samples/*/assets/fonts/*.eot
 #/samples/*/assets/fonts/*.svg
