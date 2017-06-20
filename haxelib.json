@@ -1,0 +1,12 @@
+{
+	"name": "starling-haxe",
+	"url": "",
+	"license": "BSD",
+	"tags": ["starling", "2d", "gpu", "openfl", "flash", "air", "js", "web", "cpp" ],
+	"description": "The Cross-Platform Game Engine",
+	"version": "2.1.0",
+	"releasenote": "",
+	"contributors": [],
+	"dependencies": {
+	}
+}
