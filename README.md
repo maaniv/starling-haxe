@@ -1,5 +1,5 @@
 # starling-haxe
-The "Cross-Platform Game Engine", openfl port
+The "Cross-Platform Game Engine", openfl port. Version 2.1.
 
 Installation
 ------------
