@@ -18,3 +18,7 @@ To add it to an OpenFL project, add this to your project file:
 ```xml
 <haxelib name="starling-haxe" />
 ```
+
+To create starling demo project type:
+
+openfl create starling-haxe demo starling-demo
